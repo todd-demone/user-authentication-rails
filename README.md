@@ -1,4 +1,4 @@
-# User Authentication Example
+# User Authentication Example - Rails 4
 
 A rails app with basic user authentication.
 
